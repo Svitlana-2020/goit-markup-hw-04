@@ -357,6 +357,10 @@ ul {
 .social-links-ref:hover {
   background-color: #404bbf;
 }
+
+.social-links-ref:focus {
+  background-color: #404bbf;
+}
 /* 
 .employer-social-links {
   /* display: flex;
