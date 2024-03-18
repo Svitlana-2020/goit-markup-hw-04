@@ -104,6 +104,11 @@ button {
   transition: color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
+.decor {
+  position:relative;
+  color: #404bbf;
+}
+
 .navigation-list .decor::after {
   content: '';
   width: 100%;
